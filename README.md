@@ -20,11 +20,11 @@
 
 - :telescope: I'm working on myself.
 
-- :seedling: I'm currently actively studying backend Python development (Django and DRF, PostgreSQL, Linux). I study algorithms and solve problems on codewars, work with Git. I plan to learn Docker and not stop there!
+- :seedling: I'm currently actively studying backend Python development (Django & DRF, PostgreSQL, Docker). I study algorithms and solve problems on codewars, work with Linux and Git. Also study Golang as my second professional language!
 
-- :dancers: I'm looking for my first job as backend Python developer.
+- :dancers: I'm looking for my first job as Python / Go backend developer.
 
-- :zap: Volleyboller, amateur astronomer, like sci-fi.
+- :zap: Engineer, volleyballer, amateur astronomer, sci-fi lover.
 
 ---
 
@@ -32,6 +32,7 @@
 
 <div id="skills" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" title="PostreSQL" alt="PostreSQL" width="40" height="40"/>&nbsp;
@@ -60,15 +61,19 @@
 
 <div id="footer" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/aleksey-strelkov-254817223/">
+    
+    <a href="https://www.linkedin.com/in/aleksey-strelkov/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    
     <a href="https://www.instagram.com/essomly.alex/">
       <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram Badge"/>
     </a>
+    
     <a href="https://t.me/RoTor_Ex">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=lightgrey" alt="Telegram Badge"/>
     </a>
+    
   </div>
 </div>
 
