@@ -1,4 +1,4 @@
-<div id="header" align="center">  
+<!-- <div id="header" align="center">  
   <div id="gif">
     <img src="https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif" width="120"/>   
   </div>
@@ -6,7 +6,7 @@
   <div id="gif">
     <img src="https://komarev.com/ghpvc/?username=RoTorEx&style=flat-square&color=blue" alt=""/>  
   </div>
-</div>
+</div> -->
 
 <div>
   <h1> Hello!
@@ -22,7 +22,7 @@
 
 - :seedling: I'm currently actively studying backend Python development (Django & DRF, PostgreSQL, Docker). I study algorithms and solve problems on codewars, work with Linux and Git. Also study Golang as my second professional language!
 
-- :dancers: I'm looking for my first job as Python / Go backend developer.
+- :dancers: I'm working as Python developer.
 
 - :zap: Engineer, volleyballer, amateur astronomer, sci-fi lover.
 
@@ -49,13 +49,13 @@
 
 ---
 
-### :fire:   Stats:
+<!-- ### :fire:   Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoTorEx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RoTorEx&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
----
+--- -->
 
 ### :link:   Links:
 
